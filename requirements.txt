@@ -1,0 +1,8 @@
+numpy
+pandas>=2.0
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn>=1.2
+jupyter
